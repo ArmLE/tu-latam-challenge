@@ -1,0 +1,4 @@
+challenge_DEVOPS.pdf
+*.tfstate
+*.tfstate.backup
+.terraform/
